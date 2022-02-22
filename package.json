@@ -1,0 +1,16 @@
+{
+  "name": "todolist",
+  "version": "0.0.1",
+  "description": "projeto API Modulo 4 toDoList",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "author": "BrunoSa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
